@@ -16,4 +16,8 @@ PBO Server Optimizer is a simple Python script that optimizes mods pbo file for 
 ![Visualization](http://i.imgur.com/wQ6f2Vg.gif)
 
 ## Examples of optimization results
-* Community Upgrade Project (CUP) - Full 21,5 GB => 5,44 GB
+* Community Upgrade Project (CUP) - Full 21.5 GB => 5.44 GB
+* RHS 0.4.2.1 - Full 11.9 GB => 2.77 GB
+* VSM - Uniforms + Vests and Helmets 1.21 GB => 12.9 MB
+* IFA3_LITE 1.33 GB => 1 GB
+* Exile 1.25 GB => 163 MB
